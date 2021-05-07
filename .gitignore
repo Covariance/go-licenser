@@ -1,0 +1,6 @@
+# IDEA folders
+.idea
+*.iml
+
+# Folder with binaries
+bin
