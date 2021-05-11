@@ -1,6 +1,6 @@
 # "THE SUSHI-WARE LICENSE"
 
-<covariance> wrote this file.
+<CovarianceMomentum@gmail.com> wrote this file.
 
 As long as you retain this notice you can do whatever you want
 with this stuff. If we meet some day, and you think this stuff
